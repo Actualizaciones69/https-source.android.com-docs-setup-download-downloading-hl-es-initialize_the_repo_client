@@ -1,0 +1,7 @@
+echo "# https-source.android.com-docs-setup-download-downloading-hl-es-initialize_the_repo_client" >> README.md 
+git init 
+git add README.md 
+git commit -m "primer compromiso" 
+git rama -M main 
+git remoto agregar origen https://github.com/Actualizaciones69/https-source.android.com-docs-setup-download-downloading-hl-es-initialize_the_repo_client.git
+ git push -u origen principal
